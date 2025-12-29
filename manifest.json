@@ -1,0 +1,19 @@
+{
+  "name": "Casino de Cabourg",
+  "short_name": "Casino de Cabourg",
+  "theme_color": "",
+  "background_color": "#343435",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1767011247-favicon-13.ico",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

@@ -1,0 +1,205 @@
+{
+    "fr-FR": {
+        "styles": {
+            "bg": "#343435",
+            "lang-select-color": "#222829",
+            "bg-light": "#343435",
+            "welcome-bonus-bg": "#343435",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#000001",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#CD2D26",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#cf9926",
+            "yellow": "#CD2D26",
+            "yellow-button": "#cf9926",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#343435",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#6b6b6b",
+            "pay-back": "#deeadf",
+            "providers-back": "#CD2D26",
+            "faq-label": "#343435",
+            "bg-footer": "#000001",
+            "copyright": "#e7e7d5",
+            "starColor": "#CD2D26",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Casino de Cabourg",
+            "title": " Casino de Cabourg : machines à sous, roulette, blackjack, poker, bar & brasserie",
+            "description": "Découvrez le Casino de Cabourg : machines à sous, roulette, blackjack et poker, brasserie panoramique et lounge‑bar, soirées et événements. Infos pratiques, mises, offres et conseils pour une sortie réussie.",
+            "canonical": "cabourgcasino.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1272",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "cabourgcasino.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1273",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1274"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1281",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casino de Cabourg Logo"
+        },
+        "nav": {
+            "signUp": "S’inscrire",
+            "playNow": "Jouer maintenant"
+        },
+        "hero": {
+            "title": "Casino de Cabourg — jeux, brasserie et soirées en bord de mer",
+            "textDesktop": "Offre de bienvenue exclusive de",
+            "textMobile": "Offre de bienvenue exclusive de",
+            "playGame": "Lancer la partie",
+            "claimBonus": "Réclamer le bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1282",
+            "imageSizeModifier": 0,
+            "imageYModifier": -3,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1283",
+            "mobileImageSizeModifier": -5,
+            "mobileImageYModifier": 2,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Activer le bonus",
+            "title": "Top casinos",
+            "allCasino": "Tous les casinos",
+            "welcomeBonusText": " Bonus de bienvenue"
+        },
+        "bonusDetails": {
+            "title": "Détails du bonus",
+            "getBonusButtonText": "Obtenir le bonus",
+            "maximumAmountText": "Montant maximum",
+            "wagerText": "Wager",
+            "bonusCodeText": "Code promo",
+            "casino": "Casino",
+            "bonuses": "Bonus",
+            "rate": "Note",
+            "freeSpins": "Tours gratuits",
+            "moreInfo": "Plus d'infos",
+            "get": "Obtenir",
+            "refresh": " Actualiser"
+        },
+        "advantages": {
+            "title": "Avantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Machines à sous: jackpots progressifs, nouveautés régulières.",
+                "Roulette: ambiance classique, rythme de jeu.",
+                "Blackjack: stratégie, dynamisme, limites confortables.",
+                "Poker: tables actives, esprit tournoi.",
+                "Brasserie panoramique avec vue mer.",
+                "Lounge‑bar musical, soirées animées.",
+                "Emplacement en front de mer, promenade idéale."
+            ],
+            "advantagesAfterText": "Le Casino de Cabourg séduit par un équilibre entre élégance balnéaire et sensations de jeu. On y vit facilement une soirée complète: restauration, animations, puis tables ou machines. L’accueil et l’ambiance rendent l’expérience accessible tout en restant premium.\n",
+            "knowMore": "En savoir plus",
+            "appTitle": "Casino de Cabourg App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1284",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Casino de Cabourg App",
+            "mobileGooglePlayImageTitle": "Casino de Cabourg App",
+            "mobileIosImageTitle": "Casino de Cabourg App"
+        },
+        "games": {
+            "playNowText": "Jouer maintenant",
+            "title": "Games Jeux populaires",
+            "allGames": "Tous les jeux"
+        },
+        "about": {
+            "history": {
+                "title": "À propos Casino de Cabourg",
+                "description1": "Le casino se distingue par une expérience “tout‑en‑un” : bar, restauration, animations puis jeu, sans rupture. Autre point fort : variété de formats, des machines aux tables, pour tous les profils.\n\n",
+                "items": [
+                    "Jackpots: jusqu’à 50 000 €+.",
+                    "Tournois: dotations 1 000–10 000 €.",
+                    "Slots: gros hits x1 000+."
+                ],
+                "description2": "Le Casino de Cabourg est une adresse de soirée en bord de mer où le jeu rencontre l’élégance balnéaire. L’intérieur évoque l’esprit des casinos classiques, avec un confort plus contemporain. Beaucoup de visiteurs commencent par un verre ou un dîner avant de passer aux salles de jeux. ",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1285",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "L’ambiance convient autant aux débutants qu’aux habitués. On y retrouve plusieurs manières de jouer, entre machines, jeux électroniques et tables traditionnelles. Le poker apporte souvent une énergie particulière grâce à l’aspect social et compétitif. Les week‑ends et les périodes animées rendent l’atmosphère plus festive. Les espaces lounge gardent un ton détendu, idéal pour se poser entre deux parties. Le personnel accompagne avec des explications simples sur les règles et le fonctionnement. Au final, c’est un lieu où l’on peut vivre une soirée complète, fluide et plaisante, entre divertissement et jeu.\n"
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Casino de Cabourg : une soirée en bord de mer, jeu et élégance",
+                "description": "<p>\nLe Casino de Cabourg s’inscrit naturellement dans le rythme balnéaire : à l’intérieur, on retrouve une élégance sobre, une lumière travaillée, une musique agréable et ce sentiment de “soirée au bord de l’eau”. L’ambiance repose sur l’équilibre entre excitation du jeu et confort de la détente. Les décors paraissent raffinés sans être ostentatoires, ce qui met à l’aise ceux qui recherchent une atmosphère chic mais simple. En avançant dans la nuit, le lieu devient souvent plus vivant, surtout le week‑end.\n\n<\/p>\n<br>\n\n\n<p>\nCôté horaires, l’établissement est pensé pour les sorties tardives : l’ouverture se fait généralement en journée et la fermeture intervient au cœur de la nuit. Les jours calmes, la soirée se prolonge volontiers jusqu’à environ deux heures du matin, et lors des périodes plus animées, plus tard afin de profiter pleinement du bar, du dîner et du jeu. Ce cadre convient aux visiteurs de passage comme aux habitués. Pour une table précise, il est utile de garder en tête que les tables traditionnelles et le poker se concentrent souvent sur des créneaux de soirée.\n\n<\/p>\n<br>\n<p>\nLe bar est un pilier de l’expérience, car beaucoup viennent pour le combo “verre + musique + ambiance”. Le lounge‑bar permet de faire une pause entre deux sessions et convient aussi aux groupes qui ne veulent pas uniquement jouer. La brasserie panoramique, très appréciée, donne un vrai fil conducteur à la soirée : on commence par la gourmandise et la vue, puis on bascule naturellement vers les salles de jeux. L’ensemble crée une sortie complète, cohérente et conviviale.\n\n<\/p>\n<br>\n<p>\nL’animation se construit autour de soirées musicales, de formats thématiques et d’événements saisonniers. Les soirs les plus festifs, on peut retrouver une énergie proche d’un club lounge : DJ sets, live, ambiance dansante. Ces rendez‑vous sont souvent vécus comme une extension de la vie nocturne locale plutôt qu’un simple “spectacle”. Le casino devient alors un point de rencontre autant qu’un espace de jeu.\n\n<\/p>\n<br>\n<p>\nOn ne vient pas ici pour un hôtel intégré : le concept est celui d’un lieu de divertissement central, facile à intégrer à un séjour. En revanche, l’hébergement se trouve aisément à proximité, avec des options variées, ce qui facilite les week‑ends et les courts séjours. Le casino s’intègre bien à une promenade et à un programme du soir, sans logistique compliquée. Beaucoup l’adoptent comme un repère pour associer cadre, restauration et sensations.\n\n<\/p>\n<br>\n<p>\nEnfin, les avantages et offres se structurent souvent via une logique de club et des promotions ponctuelles : invitations, offres ciblées par jeux, formats cadeaux. La fidélité, dans l’esprit des grands groupes, repose sur l’accumulation d’avantages et de privilèges au fil des visites. Des animations de jeu sur machines et des formats tournois complètent fréquemment l’expérience. Résultat : une adresse qui donne envie de revenir, pas seulement de “tester une fois”.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPersonnel, paiements et retraits : fonctionnement au Casino de Cabourg\n<\/h3>\n\n<p>\nAu Casino de Cabourg, le personnel est généralement perçu comme orienté confort : à l’entrée, on explique les règles essentielles, en salle on aide à s’orienter, et aux tables on veille au rythme du jeu et au respect des procédures. Pour les nouveaux joueurs, l’important est la simplicité : on peut poser une question et obtenir une réponse claire, sans pression. Aux heures d’affluence, la présence d’équipes renforcées fluidifie l’accueil et le service. L’ensemble vise une expérience sereine, que l’on vienne observer ou jouer.\n\n<\/p>\n<br>\n\n\n<p>\nCôté langues, le français est naturellement central, avec souvent un niveau d’anglais “pratique” en période touristique pour les besoins courants : accès, règles, paiement, bar. Pour un groupe ou un événement, il est généralement possible d’anticiper l’organisation afin de rendre la communication plus fluide. Dans un casino, la précision des procédures prime : contrôle, accès, caisse, paiement, tout suit des étapes. Cela apporte une impression de clarté et de sécurité.\n\n<\/p>\n<br>\n<p>\nLa monnaie de référence est l’euro : mises, jetons, caisse et règlements se font dans cette devise. Pour les moyens de paiement, on retrouve le plus souvent les espèces et la carte bancaire, avec parfois des options complémentaires selon les services. Les opérations de jeu passent en général par la caisse : conversion de fonds en crédits\/jetons, puis jeu. Pour la restauration et le bar, le paiement classique par carte ou espèces est habituel.\n\n<\/p>\n<br>\n<p>\nLes distributeurs et services “cash” font souvent partie de l’infrastructure d’un casino, même si leur emplacement et leurs modalités peuvent évoluer. Le client dispose généralement de solutions de retrait et de change de petite monnaie lorsque les règles le permettent. Le change multidevises au sens large peut être limité : l’établissement reste centré sur l’euro. Si vous avez besoin de convertir une devise étrangère, il est préférable de le faire en amont et de compter sur le change simple et les opérations bancaires sur place.\n\n<\/p>\n<br>\n<p>\nLe retrait des gains dépend du type de jeu : les machines peuvent fournir un ticket à encaisser à la caisse, tandis que les tables passent par les jetons puis l’échange. Pour des montants importants, des contrôles d’identité et des vérifications d’usage peuvent intervenir, conformément aux exigences de sécurité financière. Le paiement peut se faire en espèces dans certaines limites ou via une opération bancaire si le montant le justifie. Conserver tickets et reçus reste une bonne pratique, notamment pour le suivi personnel.\n\n<\/p>\n<br>\n<p>\nConcernant l’imposition, pour un joueur particulier, le gain de casino n’est en général pas traité comme un revenu salarial, mais les règles peuvent varier selon le statut et la régularité des gains. En cas de pratique “professionnelle” ou de situation spécifique, une approche différente peut exister, d’où l’intérêt d’un avis spécialisé si besoin. Le casino peut également demander des justificatifs lors de gros encaissements afin de respecter les obligations de contrôle. Le meilleur réflexe : pièce d’identité, budget maîtrisé et questions à la caisse pour les gros montants.\n\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRègles de visite au Casino de Cabourg : tenue, accès et transport\n<\/h3>\n\n<p>\nLe Casino de Cabourg s’adresse à un public adulte : l’accès est généralement réservé aux personnes majeures avec une pièce d’identité. Un contrôle à l’entrée permet de préserver une ambiance sereine et le respect des règles. La tenue est le plus souvent “correcte et soignée”, sans excès, mais avec l’idée d’un lieu élégant. À l’intérieur, l’étiquette compte : ne pas gêner les joueurs, éviter les conflits et respecter la confidentialité des parties. Le bar implique une consommation responsable, et aux jeux il est essentiel de rester attentif. Certaines zones peuvent avoir des horaires spécifiques, notamment pour les tables traditionnelles et le poker. Les encaissements importants peuvent demander des formalités supplémentaires à la caisse. En groupe, prévoir budget et timing rend la soirée plus agréable. Dans une station balnéaire, beaucoup viennent à pied, ce qui renforce l’esprit promenade. En voiture, il vaut mieux anticiper la recherche de stationnement aux heures chargées. Les règles sont simples : pièce d’identité, tenue soignée et respect des autres.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTenue (dress code)\n\n\n<\/h4>\n\n <ul>\n            <li>• \nStyle soigné : chemise\/polo, pantalon\/jean propre, chaussures correctes.\n\n<\/li>\n            <li>• \nÉviter l’esprit plage : tongs, tenues de bain, look trop sportif.\n\n<\/li>\n            <li>• \nPour les soirées, le “smart casual” est idéal pour toutes les zones.\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nConditions d’accès\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAccès réservé aux majeurs, pièce d’identité obligatoire.\n\n<\/li>\n            <li>• \nAccès réservé aux majeurs, pièce d’identité obligatoire.\n\n<\/li>\n            <li>• \nHoraires et mises minimales peuvent varier selon les salles et les jeux.\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nInterdictions et limites\n\n\n<\/h4>\n\n <ul>\n            <li>• \nPhotos\/vidéos limitées ou interdites en zones de jeu, surtout aux tables.\n\n<\/li>\n            <li>• \nNe pas perturber le jeu, ne pas manipuler cartes\/jetons sans autorisation.\n\n<\/li>\n            <li>• \nIvresse manifeste et comportements agressifs non admis.\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStationnement et accès\n\n\n<\/h4>\n\n <ul>\n            <li>• \nÀ pied : parfait via la promenade et le centre.\n\n<\/li>\n            <li>• \nEn voiture : privilégier les parkings urbains proches ; arriver plus tôt aux pics.\n\n<\/li>\n            <li>• \nTaxi\/VTC : pratique pour rentrer tard sans stress.\n\n<\/li>\n            <li>• \nTransports : utiles en journée ; le soir, mieux vaut anticiper l’itinéraire.\n\n<\/li>\n\n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nProgramme de fidélité du Casino de Cabourg : niveaux, bonus et privilèges\n<\/h3>\n\n<p>\nLe programme de fidélité du Casino de Cabourg vise à récompenser la régularité et à rendre chaque visite plus avantageuse. Il fonctionne le plus souvent via une carte de club : inscription, présentation de la carte lors des jeux et des consommations, accumulation de points et montée en statut. La valeur principale ne se limite pas aux “cadeaux” : on parle aussi de confort, d’offres personnalisées, d’invitations et de services plus fluides. Pour le client, c’est simple : utiliser la carte à chaque passage, sans démarche complexe. Les machines et jeux électroniques sont souvent ceux où le suivi est le plus direct, ce qui rend la progression visible. Avec le temps, des paliers ouvrent des avantages supplémentaires, notamment des journées promo et des invitations. Le programme peut aussi donner accès à des événements, tirages au sort ou avantages “club”. Un autre atout est l’intégration avec le bar et la brasserie, qui renforce l’expérience soirée complète. Les mécaniques exactes peuvent évoluer selon la saison, mais la logique reste la même : plus l’activité est régulière, plus le statut et les bénéfices augmentent. Pour un nouveau visiteur, c’est un bon moyen de profiter d’avantages immédiats. Pour un habitué, c’est un vrai levier de valeur cumulée et de confort.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nConditions d’inscription\n<\/h4>\n\n <ul>\n            <li>• \nÂge et pièce d’identité : inscription réservée aux majeurs avec justificatif.\n\n<\/li>\n            <li>• \nFormulaire : informations de contact pour l’identification et les offres.\n\n<\/li>\n            <li>• \nActivation : carte physique ou profil numérique rattaché.\n\n<\/li>\n            <li>• \nConsentements : validation des règles du club et des notifications (optionnel).\n\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nNiveaux et obtention\n<\/h4>\n\n <ul>\n            <li>• \nClassic (0–999 points) : niveau d’entrée, cumul standard, bonus de bienvenue 5 € (coupon\/crédit type).\n\n<\/li>\n            <li>• \nSilver (1 000–4 999 points) : cumul accéléré +10%, cadeau mensuel 10 € sur jeu ou bar (jours promo).\n\n<\/li>\n            <li>• \nGold (5 000–14 999 points) : cumul +20%, priorité événements, pack anniversaire 20 € + invitation.\n\n<\/li>\n            <li>• \nPlatinum (15 000+ points) : cumul +30%, offres personnalisées, accès VIP, avantages renforcés 30–50 € (souvent en saison).\n\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBonus et privilèges\n<\/h4>\n\n <ul>\n            <li>• \nBienvenue 5 € — démarrage doux dès la première visite.\n\n<\/li>\n            <li>• \nCumul +10 à +30% — plus de points à activité égale.\n\n<\/li>\n            <li>• \nCoupons 10–50 € — crédits de jeu ou vouchers bar\/brasserie sur dates ciblées.\n\n<\/li>\n            <li>• \nAnniversaire 20 € — cadeau souvent accompagné d’une invitation.\n\n<\/li>\n\t    <li>• \nTirages 1 000–5 000 € — mécaniques club réservées aux membres.\n\n<\/li>            <li>• \nPriorité événements — inscriptions anticipées, meilleures conditions.\n\n<\/li>\n\t    <li>• \nService VIP — opérations caisse plus fluides, offres dédiées.\n\n\n<\/li>\n        <\/ul><br>\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Fournisseurs de logiciels"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Divertissement et jeux au  Casino de Cabourg",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonus et offres spéciales du Casino de Cabourg : promotions, gains, saisons\n<\/h3>\n\n<p>\nEn dehors de la fidélité, le Casino de Cabourg propose généralement des animations qui rendent l’expérience plus événementielle. On retrouve souvent des promotions sur les machines à sous avec tirages additionnels ou séries de lots sur des créneaux horaires précis. Un autre pilier concerne les formats tournoi, notamment en poker, qui apportent un objectif clair et une dimension compétitive. Les jeux électroniques et la roulette peuvent aussi être associés à des soirées thématiques avec cadeaux ou primes d’activité. En période animée, les soirées prennent une tonalité plus festive, avec des offres liées au bar, à la musique et à des avantages d’accueil. Des fenêtres promotionnelles “à durée limitée” peuvent encourager la venue à certaines heures. On voit aussi des formats cadeaux et des offres “dîner + divertissement”, surtout lors des dates festives. Ces opérations sont souvent limitées dans le temps ou en nombre de participants, ce qui renforce l’exclusivité. Pour le visiteur, c’est l’occasion de choisir un soir “au bon format” et de vivre plus d’émotions qu’une visite standard. Pour un site, il est pertinent de présenter ces offres comme des catégories récurrentes. Ci‑dessous, une liste détaillée avec des chiffres‑exemples.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBonus, gains et offres\n<\/h4>\n\n <ul>\n            <li>• \nJackpots progressifs (50 000–250 000 €) — gains cumulés qui augmentent avec l’activité des joueurs.\n\n<\/li>\n            <li>• \nTirages hebdomadaires (1 000–5 000 €) — participation via check‑in ou tickets d’activité.\n\n<\/li>\n            <li>• \nTournois machines “Race\/Challenge” (500–3 000 €) — compétition sur points\/combinations sur un temps limité.\n\n<\/li>\n            <li>• \nÉvénements poker (garanties 10 000–100 000 €) — séries structurées avec prizepool et dynamique sportive.\n\n<\/li>\n\t    <li>• \nHappy Hours (bonus 10–30%) — crédits additionnels lors d’un achat pendant une plage promo.\n\n<\/li>\n\t    <li>• \nOffres “dîner + bonus” (voucher 10–25 €) — démarrer à la brasserie puis prolonger en salle.\n\n<\/li>\n\t    <li>• \nSoirées saisonnières (cadeaux 5–20 €) — jetons, coupons, cocktails sur dates festives.\n\n<\/li>\n\t    <li>• \nOffres groupes (20–60 € \/ personne) — formules pour anniversaires et sorties.\n\n<\/li>\n\t    <li>• \nSemaines thématiques (gains x100–x1 000 la mise) — mécaniques renforcées sur jeux sélectionnés.\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nJeux populaires au Casino de Cabourg : des machines aux tables\n<\/h3>\n\n<p>\nL’offre de jeu du Casino de Cabourg est pensée pour proposer plusieurs rythmes et styles. Pour beaucoup, l’entrée se fait par les machines à sous : démarrage immédiat, règles simples, liberté de jouer à son tempo. Les slots plaisent par la variété des thèmes et la possibilité de toucher un gain marquant sur une bonne série. Les jeux électroniques attirent ceux qui veulent de la vitesse et un cadre clair, sans la pression sociale d’une table traditionnelle. La roulette reste une icône, avec son ambiance typiquement casino et ses mises multiples. Le blackjack séduit par sa part de stratégie et l’impression de maîtrise, ce qui plaît aux joueurs “réfléchis”. Le poker apporte une dimension sociale et compétitive, où la lecture des adversaires compte autant que les cartes. Beaucoup aiment mixer : machines au début, roulette ensuite, puis une table pour finir la soirée. Les budgets sont modulables : il existe des entrées faibles et des limites plus élevées selon les zones. Pour un débutant, démarrer sur l’électronique ou les mises minimales est souvent plus confortable. Les habitués apprécient les tables pour l’atmosphère et le rituel du jeu. Au final, chacun peut composer sa soirée selon ses envies.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nDescriptions courtes\n<\/h4>\n\n <ul>\n            <li>• \nMachines à sous — classiques et vidéo, souvent avec bonus et jackpots.\n<\/li>\n            <li>• \nRoulette — règles simples, nombreuses options de mises, ambiance signature.\n\n<\/li>\n            <li>• \nRoulette électronique — rythme plus rapide, approche accessible.\n\n<\/li>\n            <li>• \nBlackjack — jeu contre le croupier, décisions du joueur déterminantes.\n\n<\/li>\n\t    <li>• \nBlackjack électronique — format fluide, idéal pour découvrir.\n\n<\/li>\n\t    <li>• \nTexas Hold’em Poker — stratégie, mathématiques, psychologie et esprit compétition.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMises minimales et maximales au Casino de Cabourg\n<\/h3>\n\n<p> \nPour choisir un jeu adapté à votre budget, il est utile de connaître les fourchettes de mises : les minima facilitent la découverte, tandis que les maxima encadrent les sessions plus engagées. Au Casino de Cabourg, les limites sont généralement pensées pour offrir une accessibilité sur l’électronique et les machines, tout en conservant des standards “casino” sur les tables.\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#CD2D26; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Jeu \/ Format<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Machines à sous (mise par spin)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0,01 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">100 €+ <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette électronique (mise)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0,20–0,50 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">50–100 €<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack électronique (mise)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0,50–1 € <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">50–100 €<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette (table live)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">1–2 € <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> 1 000 € (selon table)<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack (table live)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">3–5 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">1 000 € (selon table)<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Poker cash game (blindes)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">2\/4 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5\/5 € et + (selon session)<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Poker tournoi (buy‑in)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">50 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">300 €+ (selon événement)<\/td>\n                <\/tr>\n \n            <\/tbody>\n        <\/table><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nÉvénements et divertissements au Casino de Cabourg : soirées, shows et rendez‑vous réguliers\n<\/h3>\n\n<p>\nLe Casino de Cabourg ne se limite pas aux salles de jeux : c’est aussi un véritable lieu de sortie où l’animation peut devenir une raison de venir à part entière. L’esprit lounge est souvent au cœur de l’expérience : musique, ambiance cosy, cocktails et sensation de soirée balnéaire. Les formats récurrents se concentrent fréquemment sur les week‑ends, quand le public aime prolonger la nuit entre bar, échanges et jeu. Le casino est alors perçu comme un repère de la vie nocturne, au‑delà des mises.\n\n<\/p>\n<br>\n\n\n<p>\nLe volet “nuit” est particulièrement marquant : DJ sets, soirées thématiques et formats musicaux donnent une vibe de mini‑club, plus adulte et maîtrisée. C’est idéal pour ceux qui veulent de la musique et du mouvement sans l’intensité d’un club classique. Les groupes arrivent souvent pour le bar, puis certains passent en salle de jeux pendant que d’autres restent au lounge. Le scénario reste flexible : chacun compose sa soirée dans le même lieu.\n\n<\/p>\n<br>\n<p>\nLa saison renforce l’intensité : fêtes et périodes de forte affluence apportent des rendez‑vous plus denses. On voit apparaître des soirées spéciales, tirages, touches de show et parfois des mises en avant gourmandes liées à la brasserie. Un autre pilier important concerne le poker : tournois et séries créent un vrai “prétexte” à la visite, avec un calendrier motivant. Cela attire particulièrement les amateurs de compétition.\n\n<\/p>\n<br>\n<p>\nEnfin, le casino peut accueillir des événements privés ou corporate : soirées, anniversaires, formats avec animation. Le public apprécie le “tout au même endroit” : restauration, bar, divertissement et options de jeu. Le Casino de Cabourg se prête donc bien à une sortie “clé en main”. Ci‑dessous, la liste des divertissements typiques.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTous les divertissements\n<\/h4>\n\n <ul>\n            <li>• \nSoirées lounge avec DJ — rythme nocturne, ambiance dansante.\n\n<\/li>\n            <li>• \nLive music — sets vocaux ou instrumentaux, atmosphère chaleureuse.\n\n<\/li>\n            <li>• \nSoirées thématiques — saisons, fêtes, styles musicaux.\n\n<\/li>\n            <li>• \nTournois de poker — événements programmés avec buy‑ins et dotations.\n\n<\/li>\n\t    <li>• \nPromos machines — tirages et challenges sur créneaux.\n\n<\/li>\n\t    <li>• \nNuits cocktails — cartes spéciales et animations bar.\n\n<\/li>\n\t    <li>• \nÉvénements privés — groupes, anniversaires, sorties d’entreprise.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBars, restaurant et détente au Casino de Cabourg : une soirée tout confort\n<\/h3>\n\n<p>\nAu Casino de Cabourg, la soirée commence souvent par la gourmandise et l’ambiance plutôt que par le jeu. La brasserie panoramique s’impose comme une première étape naturelle : on s’installe, on se détend, puis on décide du rythme de la partie. C’est idéal pour les couples et les groupes où tout le monde n’a pas forcément la même envie de jouer. L’esprit “bord de mer” transforme le dîner et les boissons en une vraie partie de l’expérience.\n\n<\/p>\n<br>\n\n\n<p>\nLe lounge‑bar joue le rôle d’espace de transition : on s’y retrouve, on échange, on fait une pause, on célèbre un bon moment ou on repart sur une nouvelle session. Ce format aide à maîtriser le tempo : jeu, pause, puis jeu à nouveau, sans fatigue. L’ambiance ressemble davantage à un lounge balnéaire qu’à un club bruyant, ce qui convient à des profils variés. Le soir, surtout lors des animations musicales, le bar devient un point de vie sociale.\n\n<\/p>\n<br>\n<p>\nConcernant l’hébergement, le casino n’est généralement pas conçu comme un complexe hôtelier intégré. En revanche, on trouve habituellement des options d’hôtels et d’appartements à proximité, ce qui facilite les week‑ends et les retours tardifs. C’est un vrai avantage pour ceux qui veulent profiter sans contrainte. Le casino s’insère facilement dans un programme “promenade + dîner + sortie”.\n\n<\/p>\n<br>\n<p>\nAu final, la détente repose sur une idée simple : bien manger, bien boire, puis se divertir selon l’envie. On peut venir pour un cocktail et l’atmosphère, ou passer une nuit complète avec plusieurs sessions de jeu. Cette polyvalence rend le Casino de Cabourg très pratique : une adresse de sortie ou un lieu de loisir long format. Voici les espaces clés à mettre en avant.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTous les espaces détente\n<\/h4>\n\n <ul>\n            <li>• \nBrasserie panoramique — dîner et vue, début de soirée idéal.\n\n<\/li>\n            <li>• \nLounge‑bar — cocktails, musique, ambiance sociale.\n\n<\/li>\n            <li>• \nTerrasse — esprit plein air en saison, parfaite pour les pauses.\n\n<\/li>\n            <li>• \nEspaces détente proches des salles — respirations entre deux sessions.\n\n<\/li>\n\t    <li>• \nHébergements à proximité (hors casino) — pratique pour week‑end et retours tardifs.\n\n\n<\/li>\n        <\/ul><br>\n"
+            }
+        },
+        "faq": {
+            "title": "FAQ",
+            "items": [
+                {
+                    "title": "Y a‑t‑il une limite de temps à l’intérieur ?",
+                    "answer": "Généralement non : vous restez dans la plage d’ouverture. Certaines zones peuvent suivre le rythme d’un événement."
+                },
+                {
+                    "title": "Que faire en cas d’objet perdu ?",
+                    "answer": "Adressez‑vous au personnel ou au service d’accueil : une procédure “objets trouvés” est généralement prévue.\n\n\n"
+                },
+                {
+                    "title": "Peut‑on reconvertir ses jetons à tout moment ?",
+                    "answer": "En général oui, à la caisse pendant ses horaires. Pour de gros montants, des vérifications supplémentaires peuvent s’appliquer.\n\n\n"
+                },
+                {
+                    "title": "Le téléphone est‑il autorisé pendant le jeu ?",
+                    "answer": "Aux tables, on demande souvent d’éviter distractions et captations ; ailleurs, l’usage est possible tant que les règles et le respect des autres sont assurés.\n\n\n"
+                },
+                {
+                    "title": "Comment maîtriser son budget et éviter les dépenses excessives ?",
+                    "answer": "Fixez une limite, faites des pauses, ne cherchez pas à “vous refaire” et considérez le jeu comme un divertissement payant. En cas de difficulté, mieux vaut s’arrêter et demander de l’aide.\n\n\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1286",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Casino de Cabourg"
+        }
+    },
+    "langs": [
+        {
+            "code": "fr-FR",
+            "name": "Французский",
+            "isDefault": true
+        }
+    ]
+}
